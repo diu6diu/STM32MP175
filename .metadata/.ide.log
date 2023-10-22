@@ -1,0 +1,602 @@
+2023-10-23 00:01:30,174 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:01:30,173 [INFO] Gpio:273 - dependency for GPIO [USART3]
+2023-10-23 00:01:30,177 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:03:43,899 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:03:43,897 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,450x366,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-23 00:03:43,899 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:04:45,733 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:04:45,730 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-23 00:04:45,734 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:04:53,060 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:04:53,057 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-23 00:04:53,060 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:04:54,452 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:04:54,449 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-23 00:04:54,452 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:06:08,667 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:06:08,665 [WARN] ContextAllowed:140 - Switch context cannot be done in case of multiple context selected
+2023-10-23 00:06:08,667 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:06:12,792 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:06:12,791 [WARN] MainPanel:381 - Warning: This peripheral has no parameters to be configured
+2023-10-23 00:06:12,793 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:06:17,294 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:06:17,293 [WARN] MainPanel:381 - Warning: This peripheral has no parameters to be configured
+2023-10-23 00:06:17,295 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:06:21,829 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:06:21,828 [WARN] MainPanel:381 - Warning: This peripheral has no parameters to be configured
+2023-10-23 00:06:21,829 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:06:23,395 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:06:23,393 [INFO] IpGicPanel:101 - GIC parent = javax.swing.JViewport[,0,0,573x394,layout=javax.swing.ViewportLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=8388616,maximumSize=,minimumSize=,preferredSize=,isViewSizeSet=true,lastPaintPosition=java.awt.Point[x=0,y=0],scrollUnderway=false]
+2023-10-23 00:06:23,395 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:06:27,127 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:06:27,125 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,581x394,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-23 00:06:27,127 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:06:58,278 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:06:58,276 [WARN] MainPanel:381 - Warning: This peripheral has no parameters to be configured
+2023-10-23 00:06:58,278 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:06:58,290 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:06:58,288 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-23 00:06:58,291 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:06:58,802 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:06:58,800 [INFO] IpGicPanel:101 - GIC parent = javax.swing.JViewport[,0,0,0x0,invalid,layout=javax.swing.ViewportLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=8388616,maximumSize=,minimumSize=,preferredSize=,isViewSizeSet=false,lastPaintPosition=,scrollUnderway=false]
+2023-10-23 00:06:58,803 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:06:58,806 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:06:58,803 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-23 00:06:58,806 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:06:59,414 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:06:59,411 [INFO] IpGicPanel:101 - GIC parent = javax.swing.JViewport[,0,0,573x394,layout=javax.swing.ViewportLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=8388616,maximumSize=,minimumSize=,preferredSize=,isViewSizeSet=true,lastPaintPosition=java.awt.Point[x=0,y=0],scrollUnderway=false]
+2023-10-23 00:06:59,414 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:07:04,854 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:07:04,851 [INFO] IpGicPanel:101 - GIC parent = javax.swing.JViewport[,0,0,573x394,layout=javax.swing.ViewportLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=8388616,maximumSize=,minimumSize=,preferredSize=,isViewSizeSet=true,lastPaintPosition=java.awt.Point[x=0,y=0],scrollUnderway=false]
+2023-10-23 00:07:04,854 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:07:09,633 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:07:09,631 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-23 00:07:09,634 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:07:20,977 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:07:20,976 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 739840064 Bytes (1073741824)
+2023-10-23 00:07:20,977 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:07:28,201 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:07:28,200 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Connect timed out
+2023-10-23 00:07:28,201 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:07:31,938 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:07:31,937 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 775133544 Bytes (1073741824)
+2023-10-23 00:07:31,938 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:07:33,203 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:07:33,202 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Connect timed out
+2023-10-23 00:07:33,203 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:07:38,301 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:07:38,300 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2023-10-23 00:07:38,301 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:07:43,304 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:07:43,303 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Connect timed out
+2023-10-23 00:07:43,304 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:07:48,306 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:07:48,305 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Connect timed out
+2023-10-23 00:07:48,306 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:07:59,805 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:07:59,804 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 938610048 Bytes (1073741824)
+2023-10-23 00:07:59,805 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,033 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,032 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-10-23 00:08:00,034 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,035 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,034 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-10-23 00:08:00,035 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,037 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,035 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GIC
+2023-10-23 00:08:00,037 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,038 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,037 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-10-23 00:08:00,038 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,039 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,038 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: IPCC
+2023-10-23 00:08:00,039 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,043 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,042 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-10-23 00:08:00,043 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,045 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,044 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\\db\
+2023-10-23 00:08:00,045 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,105 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,104 [INFO] CodeGenerator:1502 - *******************Project context A7 ROM selected
+2023-10-23 00:08:00,106 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,106 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,106 [INFO] CodeGenerator:1502 - *******************Project context A7S selected
+2023-10-23 00:08:00,107 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,107 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,107 [INFO] CodeGenerator:1502 - *******************Project context A7S selected
+2023-10-23 00:08:00,108 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,108 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,108 [INFO] CodeGenerator:1502 - *******************Project context A7NS selected
+2023-10-23 00:08:00,108 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,109 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,109 [INFO] CodeGenerator:1502 - *******************Project context M4 selected
+2023-10-23 00:08:00,109 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,271 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,270 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\MXTmpFiles\license.tmp_save
+2023-10-23 00:08:00,271 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,354 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,353 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\MXTmpFiles\license.tmp
+2023-10-23 00:08:00,354 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,395 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,393 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\gpio.tmp_save
+2023-10-23 00:08:00,395 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,464 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,463 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\gpio.tmp
+2023-10-23 00:08:00,464 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,483 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,482 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-23 00:08:00,483 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,538 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,537 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-23 00:08:00,538 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,573 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,572 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\stm32mp1xx_it.c_save
+2023-10-23 00:08:00,573 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,729 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,728 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\stm32mp1xx_it.c
+2023-10-23 00:08:00,729 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,735 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,734 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\stm32mp1xx_it.h_save
+2023-10-23 00:08:00,735 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,792 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,791 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\stm32mp1xx_it.h
+2023-10-23 00:08:00,792 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,802 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,801 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-23 00:08:00,802 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,810 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,809 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-23 00:08:00,810 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,813 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,812 [WARN] IPConfigManager:99 - WARNING: Missing Config File for VREFBUF ip!!
+2023-10-23 00:08:00,813 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,820 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,819 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-23 00:08:00,820 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,833 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,831 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\stm32mp1xx_hal_msp.c_save
+2023-10-23 00:08:00,833 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,930 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,929 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\stm32mp1xx_hal_msp.c
+2023-10-23 00:08:00,930 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,935 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,933 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\system.tmp_save
+2023-10-23 00:08:00,935 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:00,992 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:00,990 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\system.tmp
+2023-10-23 00:08:00,992 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,005 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,004 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\stm32mp1xx_hal_conf.h_save
+2023-10-23 00:08:01,005 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,070 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,069 [INFO] CodeEngine:335 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\stm32mp1xx_hal_conf.h
+2023-10-23 00:08:01,070 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,100 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,099 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\main.h_save
+2023-10-23 00:08:01,100 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,185 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,184 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\main.h
+2023-10-23 00:08:01,185 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,197 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,196 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\main.c_save
+2023-10-23 00:08:01,198 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,287 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,286 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\main.c
+2023-10-23 00:08:01,287 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,356 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,356 [INFO] DTGenerator:254 - 
+2023-10-23 00:08:01,357 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] >>> DTGen : IN
+2023-10-23 00:08:01,357 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,469 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,448 [INFO] GenProcessManager:166 - 
+2023-10-23 00:08:01,469 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,471 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,470 [INFO] GenProcessManager:167 - Launching process: kernel-dtsBind
+2023-10-23 00:08:01,471 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,472 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,471 [INFO] GenerationProcess:393 - 
+2023-10-23 00:08:01,472 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] GenProcess for OUTPUT : processName=kernel-dtsBind - Output=kernel
+2023-10-23 00:08:01,473 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] =======================
+2023-10-23 00:08:01,473 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,473 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,473 [INFO] GenerationProcess:393 - 
+2023-10-23 00:08:01,474 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] GenProcess for OUTPUT : processName=kernel-dtsBind - Output=u-boot
+2023-10-23 00:08:01,474 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] =======================
+2023-10-23 00:08:01,474 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,476 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,475 [INFO] GenProcessDtsBind:271 -   >>> FW bind process - processName=kernel-dtsBind - FW=LINUX - matchingCtxt=CortexA7NS
+2023-10-23 00:08:01,477 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,482 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,481 [INFO] GenProcessDtsBind:271 -   >>> FW bind process - processName=kernel-dtsBind - FW=CUBE - matchingCtxt=CortexM4
+2023-10-23 00:08:01,482 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,494 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,493 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\kernel\stm32mp157d-interprocessorcom-mx.dts_save
+2023-10-23 00:08:01,494 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,588 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,586 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\kernel\stm32mp157d-interprocessorcom-mx.dts
+2023-10-23 00:08:01,588 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,591 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,590 [INFO] GenProcessManager:166 - 
+2023-10-23 00:08:01,591 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,592 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,591 [INFO] GenProcessManager:167 - Launching process: ddrConfigGen
+2023-10-23 00:08:01,592 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,592 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,592 [INFO] GenerationProcess:393 - 
+2023-10-23 00:08:01,593 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] GenProcess for OUTPUT : processName=ddrConfigGen - Output=tf-a
+2023-10-23 00:08:01,593 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] =======================
+2023-10-23 00:08:01,593 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,594 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,593 [ERROR] DdrService:418 - [DDR SERVICE(MCU)] The IP object exists but the DDR configuration is not valid
+2023-10-23 00:08:01,595 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,597 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,595 [WARN] GenProcessDdrConfigGen:81 - DDR config file not generated: ddrSrvc error=The DDR IP exists, but it is not properly configured. Can not access the DDR register list - outputFile=C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\tf-a\stm32mp15-mx.dtsi
+2023-10-23 00:08:01,597 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,598 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,597 [INFO] GenProcessManager:166 - 
+2023-10-23 00:08:01,598 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,598 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,598 [INFO] GenProcessManager:167 - Launching process: uboot-dtsBind
+2023-10-23 00:08:01,598 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,599 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,598 [INFO] GenerationProcess:393 - 
+2023-10-23 00:08:01,599 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] GenProcess for OUTPUT : processName=uboot-dtsBind - Output=u-boot
+2023-10-23 00:08:01,600 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] =======================
+2023-10-23 00:08:01,600 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,601 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,600 [INFO] GenProcessDtsBind:271 -   >>> FW bind process - processName=uboot-dtsBind - FW=U-BOOT - matchingCtxt=
+2023-10-23 00:08:01,601 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,612 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,611 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\u-boot\stm32mp157d-interprocessorcom-mx-u-boot.dtsi_save
+2023-10-23 00:08:01,612 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,681 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,680 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\u-boot\stm32mp157d-interprocessorcom-mx-u-boot.dtsi
+2023-10-23 00:08:01,681 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,683 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,683 [INFO] GenProcessManager:166 - 
+2023-10-23 00:08:01,683 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,684 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,683 [INFO] GenProcessManager:167 - Launching process: tfa-dtsBind
+2023-10-23 00:08:01,684 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,685 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,684 [INFO] GenerationProcess:393 - 
+2023-10-23 00:08:01,685 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] GenProcess for OUTPUT : processName=tfa-dtsBind - Output=tf-a
+2023-10-23 00:08:01,685 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] =======================
+2023-10-23 00:08:01,685 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,687 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,686 [INFO] GenProcessDtsBind:271 -   >>> FW bind process - processName=tfa-dtsBind - FW=TF-A - matchingCtxt=BootLoader
+2023-10-23 00:08:01,687 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,700 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,698 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\tf-a\stm32mp157d-interprocessorcom-mx.dts_save
+2023-10-23 00:08:01,700 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,788 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,787 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\tf-a\stm32mp157d-interprocessorcom-mx.dts
+2023-10-23 00:08:01,788 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,790 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,790 [INFO] GenProcessManager:166 - 
+2023-10-23 00:08:01,790 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,791 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,791 [INFO] GenProcessManager:167 - Launching process: fwconfig-dtsBind
+2023-10-23 00:08:01,791 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,792 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,791 [INFO] GenerationProcess:393 - 
+2023-10-23 00:08:01,792 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] GenProcess for OUTPUT : processName=fwconfig-dtsBind - Output=tf-a
+2023-10-23 00:08:01,793 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] =======================
+2023-10-23 00:08:01,793 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,802 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,801 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\tf-a\stm32mp157d-interprocessorcom-mx-fw-config.dts_save
+2023-10-23 00:08:01,802 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,856 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,855 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\tf-a\stm32mp157d-interprocessorcom-mx-fw-config.dts
+2023-10-23 00:08:01,857 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,858 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,858 [INFO] GenProcessManager:166 - 
+2023-10-23 00:08:01,859 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,859 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,859 [INFO] GenProcessManager:167 - Launching process: optee-dtsBind
+2023-10-23 00:08:01,859 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,860 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,859 [INFO] GenerationProcess:393 - 
+2023-10-23 00:08:01,860 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] GenProcess for OUTPUT : processName=optee-dtsBind - Output=optee-os
+2023-10-23 00:08:01,861 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] =======================
+2023-10-23 00:08:01,861 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,870 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,861 [INFO] GenProcessDtsBind:271 -   >>> FW bind process - processName=optee-dtsBind - FW=OP-TEE - matchingCtxt=CortexA7S
+2023-10-23 00:08:01,870 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,885 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,883 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\optee-os\stm32mp157d-interprocessorcom-mx.dts_save
+2023-10-23 00:08:01,885 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,981 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,979 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\optee-os\stm32mp157d-interprocessorcom-mx.dts
+2023-10-23 00:08:01,981 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:01,984 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:01,983 [INFO] DTGenerator:354 - 
+2023-10-23 00:08:01,984 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] >>> DTGen : OUT
+2023-10-23 00:08:01,984 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:02,278 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:02,277 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 133mS.
+2023-10-23 00:08:02,278 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:02,282 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:02,281 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-10-23 00:08:02,282 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:02,450 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:02,449 [INFO] ConfigFileManager:1457 - The Die is : DIE500
+2023-10-23 00:08:02,450 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:04,306 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:04,305 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 2024mS.
+2023-10-23 00:08:04,306 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:04,307 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:04,307 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-10-23 00:08:04,307 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:04,309 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:04,308 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-10-23 00:08:04,309 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:08:11,321 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Connect timed out
+2023-10-23 00:08:17,425 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2023-10-23 00:08:23,520 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2023-10-23 00:08:28,521 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Connect timed out
+2023-10-23 00:08:43,581 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:08:43,579 [WARN] MainPanel:272 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2023-10-23 00:08:43,581 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:09:26,482 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:09:26,481 [INFO] ApiDbMcu:507 - Load IP Config File for OPENAMP
+2023-10-23 00:09:26,483 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:09:26,580 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:09:26,579 [WARN] IpParametersView:151 - Warning: This peripheral hasn't parameters
+2023-10-23 00:09:26,580 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:32,958 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:32,957 [INFO] CADModel:198 - CPN selected (Project mode): STM32MP157DAA1
+2023-10-23 00:14:32,958 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:32,959 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:32,959 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2023-10-23 00:14:32,960 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:32,960 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:32,960 [INFO] CADModel:203 - rpn retrievedSTM32MP157DA
+2023-10-23 00:14:32,960 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:32,966 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:32,966 [INFO] WebAppUi:272 - Instantiating new browser for Project
+2023-10-23 00:14:32,967 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:33,092 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:33,091 [INFO] WebAppUi:1170 - Register for checkConnection events
+2023-10-23 00:14:33,092 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:33,093 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:33,092 [INFO] WebAppUi:1205 - Apply proxy settings
+2023-10-23 00:14:33,093 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:33,094 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:33,093 [INFO] WebAppUi:1243 - Chromium requires no authentication
+2023-10-23 00:14:33,094 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:33,095 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:33,094 [INFO] WebAppUi:1229 - Direct internet connection detected
+2023-10-23 00:14:33,095 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:33,098 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:33,097 [INFO] WebAppUi:297 - Starting web application
+2023-10-23 00:14:33,098 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:33,100 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:33,098 [INFO] WebAppUi:1101 - Web application path used C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\db\plugins\mcufinder\reactClient\index.html
+2023-10-23 00:14:33,100 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:33,136 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:33,134 [INFO] WebAppUi:870 - Path where api_config.json is located C:\Users\Jerry\.stmcufinder\plugins\mcufinder//mcu/api_config.json
+2023-10-23 00:14:33,136 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:33,137 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:33,136 [INFO] WebAppUi:871 - Setting api config in window object
+2023-10-23 00:14:33,137 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:33,155 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:33,154 [WARN] WebAppUi:908 - Cannot access cad_preferences.json
+2023-10-23 00:14:33,156 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:33,156 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:33,156 [WARN] WebAppUi:911 - Fallback to default consent
+2023-10-23 00:14:33,156 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:33,158 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:33,157 [INFO] WebAppUi:879 - Path where cad_preferences.json is located C:\Users\Jerry/.stm32cubeide/
+2023-10-23 00:14:33,158 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:33,159 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:33,158 [INFO] WebAppUi:880 - Setting consent info in window object
+2023-10-23 00:14:33,159 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:35,295 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:35,294 [INFO] WebAppUi:775 - Allow Downloads
+2023-10-23 00:14:35,295 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:35,297 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:35,296 [INFO] WebAppUi:272 - Instantiating new browser for Finder
+2023-10-23 00:14:35,297 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:35,411 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:35,410 [INFO] WebAppUi:1170 - Register for checkConnection events
+2023-10-23 00:14:35,411 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:35,411 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:35,411 [INFO] WebAppUi:1205 - Apply proxy settings
+2023-10-23 00:14:35,412 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:35,412 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:35,412 [INFO] WebAppUi:1243 - Chromium requires no authentication
+2023-10-23 00:14:35,413 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:35,414 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:35,413 [INFO] WebAppUi:1229 - Direct internet connection detected
+2023-10-23 00:14:35,414 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:35,416 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:35,415 [INFO] WebAppUi:297 - Starting web application
+2023-10-23 00:14:35,416 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:35,418 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:35,416 [INFO] WebAppUi:1101 - Web application path used C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\db\plugins\mcufinder\reactClient\index.html
+2023-10-23 00:14:35,418 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:35,429 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:35,427 [INFO] WebAppUi:870 - Path where api_config.json is located C:\Users\Jerry\.stmcufinder\plugins\mcufinder//mcu/api_config.json
+2023-10-23 00:14:35,429 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:35,430 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:35,429 [INFO] WebAppUi:871 - Setting api config in window object
+2023-10-23 00:14:35,430 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:35,448 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:35,447 [INFO] WebAppUi:879 - Path where cad_preferences.json is located C:\Users\Jerry/.stm32cubeide/
+2023-10-23 00:14:35,448 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:35,449 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:35,448 [INFO] WebAppUi:880 - Setting consent info in window object
+2023-10-23 00:14:35,449 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:36,697 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:36,696 [INFO] WebAppUi:775 - Allow Downloads
+2023-10-23 00:14:36,697 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:36,698 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:36,697 [INFO] WebAppUi:596 - RPN selected STM32MP157DA
+2023-10-23 00:14:36,698 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:36,699 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:36,698 [INFO] WebAppUi:597 - RefName selected STM32MP157DAAx
+2023-10-23 00:14:36,699 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:36,700 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:36,699 [INFO] WebAppUi:598 - CPN selected STM32MP157DAA1
+2023-10-23 00:14:36,700 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:36,703 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:36,702 [INFO] WebAppUi:761 - Which Bigleton in use 2 and which CPN is about STM32MP157DAA1
+2023-10-23 00:14:36,703 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:36,708 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:36,707 [INFO] WebAppUi:635 - Have injected Javascript into web application
+2023-10-23 00:14:36,708 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:36,709 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:36,708 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32MP157DAA1
+2023-10-23 00:14:36,709 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:36,716 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:36,714 [INFO] WebAppUi:1035 - Web application message: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPGQ.woff2
+2023-10-23 00:14:36,717 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:36,748 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:36,747 [INFO] CADModel:198 - CPN selected (Project mode): STM32MP157DAA1
+2023-10-23 00:14:36,748 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:36,748 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:36,748 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2023-10-23 00:14:36,749 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:36,749 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:36,749 [INFO] CADModel:203 - rpn retrievedSTM32MP157DA
+2023-10-23 00:14:36,749 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:36,750 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:36,749 [INFO] WebAppUi:596 - RPN selected STM32MP157DA
+2023-10-23 00:14:36,750 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:36,751 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:36,750 [INFO] WebAppUi:597 - RefName selected STM32MP157DAAx
+2023-10-23 00:14:36,751 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:36,751 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:36,751 [INFO] WebAppUi:598 - CPN selected STM32MP157DAA1
+2023-10-23 00:14:36,752 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:36,753 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:36,752 [INFO] WebAppUi:761 - Which Bigleton in use 2 and which CPN is about STM32MP157DAA1
+2023-10-23 00:14:36,753 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:36,757 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:36,756 [INFO] WebAppUi:635 - Have injected Javascript into web application
+2023-10-23 00:14:36,757 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:36,758 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:36,757 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32MP157DAA1
+2023-10-23 00:14:36,758 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:37,004 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:37,003 [INFO] WebAppUi:1035 - Web application message: [UlApiManager component] Connected to Ultra Librarian SSO
+2023-10-23 00:14:37,005 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:37,006 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:37,005 [INFO] WebAppUi:1035 - Web application message: [UlApiManager component] Connected to Ultra Librarian API
+2023-10-23 00:14:37,006 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:53,505 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:53,504 [INFO] WebAppUi:1035 - Web application message: Project naming
+2023-10-23 00:14:53,505 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:54,831 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:54,830 [INFO] WebAppUi:870 - Path where api_config.json is located C:\Users\Jerry\.stmcufinder\plugins\mcufinder//mcu/api_config.json
+2023-10-23 00:14:54,832 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:54,832 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:54,832 [INFO] WebAppUi:871 - Setting api config in window object
+2023-10-23 00:14:54,832 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:54,852 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:54,851 [INFO] WebAppUi:879 - Path where cad_preferences.json is located C:\Users\Jerry/.stm32cubeide/
+2023-10-23 00:14:54,852 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:54,853 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:54,852 [INFO] WebAppUi:880 - Setting consent info in window object
+2023-10-23 00:14:54,853 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:56,002 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:56,001 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 871943064 Bytes (1073741824)
+2023-10-23 00:14:56,002 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:14:57,898 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:14:57,897 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 903490216 Bytes (1073741824)
+2023-10-23 00:14:57,898 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:01,951 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:01,950 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 733903288 Bytes (1073741824)
+2023-10-23 00:15:01,951 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,131 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,129 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-10-23 00:15:02,131 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,132 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,131 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-10-23 00:15:02,132 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,133 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,132 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: OPENAMP
+2023-10-23 00:15:02,133 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,134 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,133 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GIC
+2023-10-23 00:15:02,134 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,134 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,134 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-10-23 00:15:02,134 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,135 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,135 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: HSEM
+2023-10-23 00:15:02,135 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,136 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,135 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: IPCC
+2023-10-23 00:15:02,136 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,140 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,139 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-10-23 00:15:02,140 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,142 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,140 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\\db\
+2023-10-23 00:15:02,142 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,210 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,209 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-23 00:15:02,210 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,212 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,211 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-23 00:15:02,212 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,213 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,212 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-23 00:15:02,213 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,214 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,214 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-23 00:15:02,214 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,216 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,215 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-23 00:15:02,216 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,217 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,216 [INFO] CodeGenerator:1502 - *******************Project context A7 ROM selected
+2023-10-23 00:15:02,217 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,219 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,217 [INFO] CodeGenerator:1502 - *******************Project context A7S selected
+2023-10-23 00:15:02,219 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,220 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,219 [INFO] CodeGenerator:1502 - *******************Project context A7S selected
+2023-10-23 00:15:02,220 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,221 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,220 [INFO] CodeGenerator:1502 - *******************Project context A7NS selected
+2023-10-23 00:15:02,221 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,221 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,221 [INFO] CodeGenerator:1502 - *******************Project context M4 selected
+2023-10-23 00:15:02,222 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,310 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,309 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\MXTmpFiles\license.tmp_save
+2023-10-23 00:15:02,311 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,378 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,377 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\MXTmpFiles\license.tmp
+2023-10-23 00:15:02,378 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,425 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,424 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\gpio.c_save
+2023-10-23 00:15:02,425 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,504 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,502 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\gpio.c
+2023-10-23 00:15:02,504 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,515 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,513 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\gpio.h_save
+2023-10-23 00:15:02,515 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,567 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,566 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\gpio.h
+2023-10-23 00:15:02,567 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,578 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,577 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-23 00:15:02,578 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,589 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,588 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-23 00:15:02,589 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,605 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,604 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-23 00:15:02,605 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,616 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,616 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-23 00:15:02,617 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,629 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,628 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\ipcc.c_save
+2023-10-23 00:15:02,629 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,715 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,714 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\ipcc.c
+2023-10-23 00:15:02,715 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,725 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,724 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\ipcc.h_save
+2023-10-23 00:15:02,726 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,783 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,782 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\ipcc.h
+2023-10-23 00:15:02,784 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,787 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,786 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-23 00:15:02,788 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,800 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,798 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp_conf.h_save
+2023-10-23 00:15:02,800 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,876 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,875 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp_conf.h
+2023-10-23 00:15:02,876 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,886 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,885 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\mbox_ipcc.h_save
+2023-10-23 00:15:02,886 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,936 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,935 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\mbox_ipcc.h
+2023-10-23 00:15:02,936 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,945 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,944 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp.h_save
+2023-10-23 00:15:02,945 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:02,995 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:02,994 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp.h
+2023-10-23 00:15:02,995 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,004 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,003 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\rsc_table.h_save
+2023-10-23 00:15:03,004 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,069 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,067 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\rsc_table.h
+2023-10-23 00:15:03,069 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,079 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,078 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\mbox_ipcc.c_save
+2023-10-23 00:15:03,079 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,136 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,134 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\mbox_ipcc.c
+2023-10-23 00:15:03,136 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,148 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,147 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp.c_save
+2023-10-23 00:15:03,148 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,200 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,199 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp.c
+2023-10-23 00:15:03,200 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,210 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,209 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\rsc_table.c_save
+2023-10-23 00:15:03,210 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,261 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,260 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\rsc_table.c
+2023-10-23 00:15:03,261 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,269 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,268 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp_log.h_save
+2023-10-23 00:15:03,270 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,319 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,318 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp_log.h
+2023-10-23 00:15:03,320 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,329 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,328 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp_log.c_save
+2023-10-23 00:15:03,329 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,382 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,381 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp_log.c
+2023-10-23 00:15:03,382 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,390 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,389 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\usart.c_save
+2023-10-23 00:15:03,390 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,463 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,462 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\usart.c
+2023-10-23 00:15:03,463 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,467 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,466 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\usart.h_save
+2023-10-23 00:15:03,467 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,521 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,520 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\usart.h
+2023-10-23 00:15:03,521 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,540 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,538 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\stm32mp1xx_it.c_save
+2023-10-23 00:15:03,540 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,634 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,632 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\stm32mp1xx_it.c
+2023-10-23 00:15:03,634 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,639 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,638 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\stm32mp1xx_it.h_save
+2023-10-23 00:15:03,639 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,680 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,679 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\stm32mp1xx_it.h
+2023-10-23 00:15:03,680 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,694 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,693 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-23 00:15:03,694 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,703 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,702 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-23 00:15:03,703 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,707 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,706 [WARN] IPConfigManager:99 - WARNING: Missing Config File for VREFBUF ip!!
+2023-10-23 00:15:03,707 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,714 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,713 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-23 00:15:03,714 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,727 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,725 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\stm32mp1xx_hal_msp.c_save
+2023-10-23 00:15:03,727 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,807 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,805 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\stm32mp1xx_hal_msp.c
+2023-10-23 00:15:03,807 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,811 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,810 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\system.tmp_save
+2023-10-23 00:15:03,812 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,858 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,857 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\system.tmp
+2023-10-23 00:15:03,858 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,874 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,872 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\stm32mp1xx_hal_conf.h_save
+2023-10-23 00:15:03,874 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:03,969 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:03,967 [INFO] CodeEngine:335 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\stm32mp1xx_hal_conf.h
+2023-10-23 00:15:03,969 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,015 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,014 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\main.h_save
+2023-10-23 00:15:04,015 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,085 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,084 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\main.h
+2023-10-23 00:15:04,086 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,097 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,096 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\main.c_save
+2023-10-23 00:15:04,097 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,169 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,168 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\main.c
+2023-10-23 00:15:04,169 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,231 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,230 [INFO] DTGenerator:254 - 
+2023-10-23 00:15:04,231 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] >>> DTGen : IN
+2023-10-23 00:15:04,231 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,286 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,285 [INFO] GenProcessManager:166 - 
+2023-10-23 00:15:04,286 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,288 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,286 [INFO] GenProcessManager:167 - Launching process: kernel-dtsBind
+2023-10-23 00:15:04,288 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,289 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,288 [INFO] GenerationProcess:393 - 
+2023-10-23 00:15:04,290 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] GenProcess for OUTPUT : processName=kernel-dtsBind - Output=kernel
+2023-10-23 00:15:04,290 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] =======================
+2023-10-23 00:15:04,290 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,291 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,290 [INFO] GenerationProcess:393 - 
+2023-10-23 00:15:04,292 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] GenProcess for OUTPUT : processName=kernel-dtsBind - Output=u-boot
+2023-10-23 00:15:04,292 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] =======================
+2023-10-23 00:15:04,292 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,295 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,294 [INFO] GenProcessDtsBind:271 -   >>> FW bind process - processName=kernel-dtsBind - FW=LINUX - matchingCtxt=CortexA7NS
+2023-10-23 00:15:04,295 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,302 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,301 [INFO] GenProcessDtsBind:271 -   >>> FW bind process - processName=kernel-dtsBind - FW=CUBE - matchingCtxt=CortexM4
+2023-10-23 00:15:04,302 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,316 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,314 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\kernel\stm32mp157d-interprocessorcom-mx.dts_save
+2023-10-23 00:15:04,316 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,409 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,407 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\kernel\stm32mp157d-interprocessorcom-mx.dts
+2023-10-23 00:15:04,409 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,412 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,412 [INFO] GenProcessManager:166 - 
+2023-10-23 00:15:04,412 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,413 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,412 [INFO] GenProcessManager:167 - Launching process: ddrConfigGen
+2023-10-23 00:15:04,413 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,414 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,413 [INFO] GenerationProcess:393 - 
+2023-10-23 00:15:04,415 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] GenProcess for OUTPUT : processName=ddrConfigGen - Output=tf-a
+2023-10-23 00:15:04,416 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] =======================
+2023-10-23 00:15:04,416 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,417 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,416 [ERROR] DdrService:418 - [DDR SERVICE(MCU)] The IP object exists but the DDR configuration is not valid
+2023-10-23 00:15:04,417 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,420 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,417 [WARN] GenProcessDdrConfigGen:81 - DDR config file not generated: ddrSrvc error=The DDR IP exists, but it is not properly configured. Can not access the DDR register list - outputFile=C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\tf-a\stm32mp15-mx.dtsi
+2023-10-23 00:15:04,420 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,420 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,420 [INFO] GenProcessManager:166 - 
+2023-10-23 00:15:04,420 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,421 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,420 [INFO] GenProcessManager:167 - Launching process: uboot-dtsBind
+2023-10-23 00:15:04,421 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,422 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,421 [INFO] GenerationProcess:393 - 
+2023-10-23 00:15:04,422 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] GenProcess for OUTPUT : processName=uboot-dtsBind - Output=u-boot
+2023-10-23 00:15:04,423 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] =======================
+2023-10-23 00:15:04,423 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,424 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,423 [INFO] GenProcessDtsBind:271 -   >>> FW bind process - processName=uboot-dtsBind - FW=U-BOOT - matchingCtxt=
+2023-10-23 00:15:04,424 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,438 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,437 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\u-boot\stm32mp157d-interprocessorcom-mx-u-boot.dtsi_save
+2023-10-23 00:15:04,438 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,497 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,496 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\u-boot\stm32mp157d-interprocessorcom-mx-u-boot.dtsi
+2023-10-23 00:15:04,498 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,499 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,499 [INFO] GenProcessManager:166 - 
+2023-10-23 00:15:04,500 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,500 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,500 [INFO] GenProcessManager:167 - Launching process: tfa-dtsBind
+2023-10-23 00:15:04,500 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,501 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,500 [INFO] GenerationProcess:393 - 
+2023-10-23 00:15:04,501 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] GenProcess for OUTPUT : processName=tfa-dtsBind - Output=tf-a
+2023-10-23 00:15:04,502 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] =======================
+2023-10-23 00:15:04,502 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,503 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,502 [INFO] GenProcessDtsBind:271 -   >>> FW bind process - processName=tfa-dtsBind - FW=TF-A - matchingCtxt=BootLoader
+2023-10-23 00:15:04,503 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,517 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,515 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\tf-a\stm32mp157d-interprocessorcom-mx.dts_save
+2023-10-23 00:15:04,517 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,599 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,598 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\tf-a\stm32mp157d-interprocessorcom-mx.dts
+2023-10-23 00:15:04,599 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,601 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,601 [INFO] GenProcessManager:166 - 
+2023-10-23 00:15:04,602 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,602 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,602 [INFO] GenProcessManager:167 - Launching process: fwconfig-dtsBind
+2023-10-23 00:15:04,602 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,603 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,602 [INFO] GenerationProcess:393 - 
+2023-10-23 00:15:04,604 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] GenProcess for OUTPUT : processName=fwconfig-dtsBind - Output=tf-a
+2023-10-23 00:15:04,604 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] =======================
+2023-10-23 00:15:04,604 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,614 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,613 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\tf-a\stm32mp157d-interprocessorcom-mx-fw-config.dts_save
+2023-10-23 00:15:04,615 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,666 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,664 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\tf-a\stm32mp157d-interprocessorcom-mx-fw-config.dts
+2023-10-23 00:15:04,666 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,668 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,667 [INFO] GenProcessManager:166 - 
+2023-10-23 00:15:04,668 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,668 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,668 [INFO] GenProcessManager:167 - Launching process: optee-dtsBind
+2023-10-23 00:15:04,668 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,669 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,668 [INFO] GenerationProcess:393 - 
+2023-10-23 00:15:04,670 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] GenProcess for OUTPUT : processName=optee-dtsBind - Output=optee-os
+2023-10-23 00:15:04,670 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] =======================
+2023-10-23 00:15:04,670 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,671 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,670 [INFO] GenProcessDtsBind:271 -   >>> FW bind process - processName=optee-dtsBind - FW=OP-TEE - matchingCtxt=CortexA7S
+2023-10-23 00:15:04,671 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,685 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,684 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\optee-os\stm32mp157d-interprocessorcom-mx.dts_save
+2023-10-23 00:15:04,685 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,778 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,776 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\optee-os\stm32mp157d-interprocessorcom-mx.dts
+2023-10-23 00:15:04,778 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:04,781 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:04,780 [INFO] DTGenerator:354 - 
+2023-10-23 00:15:04,781 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] >>> DTGen : OUT
+2023-10-23 00:15:04,781 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:05,244 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:05,243 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 291mS.
+2023-10-23 00:15:05,244 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:05,250 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:05,249 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-10-23 00:15:05,250 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:05,433 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:05,432 [INFO] ConfigFileManager:1457 - The Die is : DIE500
+2023-10-23 00:15:05,433 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:07,407 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:07,406 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 2156mS.
+2023-10-23 00:15:07,408 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:07,409 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:07,408 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-10-23 00:15:07,409 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:07,418 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:07,417 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-10-23 00:15:07,418 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-10-23 00:15:24,441 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 2023-10-23 00:15:24,440 [INFO] WebAppUi:1035 - Web application message: THREE.WebGLRenderer 101
+2023-10-23 00:15:24,441 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
