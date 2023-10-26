@@ -29,6 +29,7 @@
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
+typedef StaticTimer_t osStaticTimerDef_t;
 /* USER CODE BEGIN PTD */
 
 /* USER CODE END PTD */
@@ -54,6 +55,39 @@ const osThreadAttr_t defaultTask_attributes = {
   .stack_size = 128 * 4,
   .priority = (osPriority_t) osPriorityNormal,
 };
+/* Definitions for AppTask */
+osThreadId_t AppTaskHandle;
+const osThreadAttr_t AppTask_attributes = {
+  .name = "AppTask",
+  .stack_size = 128 * 4,
+  .priority = (osPriority_t) osPriorityRealtime1,
+};
+/* Definitions for Timer_5ms */
+osTimerId_t Timer_5msHandle;
+const osTimerAttr_t Timer_5ms_attributes = {
+  .name = "Timer_5ms"
+};
+/* Definitions for Timer_10ms */
+osTimerId_t Timer_10msHandle;
+osStaticTimerDef_t Timer_10msControlBlock;
+const osTimerAttr_t Timer_10ms_attributes = {
+  .name = "Timer_10ms",
+  .cb_mem = &Timer_10msControlBlock,
+  .cb_size = sizeof(Timer_10msControlBlock),
+};
+/* Definitions for Timer_25ms */
+osTimerId_t Timer_25msHandle;
+const osTimerAttr_t Timer_25ms_attributes = {
+  .name = "Timer_25ms"
+};
+/* Definitions for Timer_50ms */
+osTimerId_t Timer_50msHandle;
+osStaticTimerDef_t Timer_50msControlBlock;
+const osTimerAttr_t Timer_50ms_attributes = {
+  .name = "Timer_50ms",
+  .cb_mem = &Timer_50msControlBlock,
+  .cb_size = sizeof(Timer_50msControlBlock),
+};
 
 /* Private function prototypes -----------------------------------------------*/
 /* USER CODE BEGIN FunctionPrototypes */
@@ -61,6 +95,11 @@ const osThreadAttr_t defaultTask_attributes = {
 /* USER CODE END FunctionPrototypes */
 
 void StartDefaultTask(void *argument);
+void AppTask_Entry(void *argument);
+void App_Cyclic_Task_5ms(void *argument);
+extern void App_Cyclic_Task_10ms(void *argument);
+void App_Cyclic_Task_25ms(void *argument);
+void App_Cyclic_Task_50ms(void *argument);
 
 void MX_FREERTOS_Init(void); /* (MISRA C 2004 rule 8.1) */
 
@@ -82,6 +121,19 @@ void MX_FREERTOS_Init(void) {
   /* add semaphores, ... */
   /* USER CODE END RTOS_SEMAPHORES */
 
+  /* Create the timer(s) */
+  /* creation of Timer_5ms */
+  Timer_5msHandle = osTimerNew(App_Cyclic_Task_5ms, osTimerPeriodic, NULL, &Timer_5ms_attributes);
+
+  /* creation of Timer_10ms */
+  Timer_10msHandle = osTimerNew(App_Cyclic_Task_10ms, osTimerPeriodic, NULL, &Timer_10ms_attributes);
+
+  /* creation of Timer_25ms */
+  Timer_25msHandle = osTimerNew(App_Cyclic_Task_25ms, osTimerPeriodic, NULL, &Timer_25ms_attributes);
+
+  /* creation of Timer_50ms */
+  Timer_50msHandle = osTimerNew(App_Cyclic_Task_50ms, osTimerPeriodic, NULL, &Timer_50ms_attributes);
+
   /* USER CODE BEGIN RTOS_TIMERS */
   /* start timers, add new ones, ... */
   /* USER CODE END RTOS_TIMERS */
@@ -93,6 +145,9 @@ void MX_FREERTOS_Init(void) {
   /* Create the thread(s) */
   /* creation of defaultTask */
   defaultTaskHandle = osThreadNew(StartDefaultTask, NULL, &defaultTask_attributes);
+
+  /* creation of AppTask */
+  AppTaskHandle = osThreadNew(AppTask_Entry, NULL, &AppTask_attributes);
 
   /* USER CODE BEGIN RTOS_THREADS */
   /* add threads, ... */
@@ -120,6 +175,48 @@ void StartDefaultTask(void *argument)
     osDelay(1);
   }
   /* USER CODE END StartDefaultTask */
+}
+
+/* USER CODE BEGIN Header_AppTask_Entry */
+/**
+* @brief Function implementing the AppTask thread.
+* @param argument: Not used
+* @retval None
+*/
+/* USER CODE END Header_AppTask_Entry */
+void AppTask_Entry(void *argument)
+{
+  /* USER CODE BEGIN AppTask_Entry */
+  /* Infinite loop */
+  for(;;)
+  {
+    osDelay(1);
+  }
+  /* USER CODE END AppTask_Entry */
+}
+
+/* App_Cyclic_Task_5ms function */
+__weak void App_Cyclic_Task_5ms(void *argument)
+{
+  /* USER CODE BEGIN App_Cyclic_Task_5ms */
+
+  /* USER CODE END App_Cyclic_Task_5ms */
+}
+
+/* App_Cyclic_Task_25ms function */
+void App_Cyclic_Task_25ms(void *argument)
+{
+  /* USER CODE BEGIN App_Cyclic_Task_25ms */
+
+  /* USER CODE END App_Cyclic_Task_25ms */
+}
+
+/* App_Cyclic_Task_50ms function */
+__weak void App_Cyclic_Task_50ms(void *argument)
+{
+  /* USER CODE BEGIN App_Cyclic_Task_50ms */
+
+  /* USER CODE END App_Cyclic_Task_50ms */
 }
 
 /* Private application code --------------------------------------------------*/
