@@ -1,0 +1,940 @@
+2023-10-29 00:16:10,507 [INFO] DdrUtils:79 - [DDR IP] The IP object exists but the DDR configuration is not valid
+2023-10-29 00:16:10,550 [INFO] CubeProgrammer:495 - [DDR PANEL] - PathOfProgrammer: null
+2023-10-29 00:16:10,558 [INFO] CubeProgrammer:495 - [DDR PANEL] - PathOfProgrammer: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_2.1.0.202305091550\tools\bin
+2023-10-29 00:16:10,573 [INFO] ProgrammerExecThread:149 - [ProgrammerAPI] CubeProgrammer command construction: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_2.1.0.202305091550\tools\bin\STM32_Programmer_CLI.exe -l
+2023-10-29 00:16:10,874 [INFO] MainDdrPanel:64 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_2.1.0.202305091550\tools\bin
+2023-10-29 00:16:10,908 [INFO] RtosManager:697 - Active RTOS found at IOC load: FREERTOS [CortexM4]
+2023-10-29 00:16:10,957 [INFO] OpenFileManager:328 - Restore cursor
+2023-10-29 00:17:09,508 [INFO] ApiDbMcu:507 - Load IP Config File for OPENAMP
+2023-10-29 00:17:09,692 [WARN] IpParametersView:151 - Warning: This peripheral hasn't parameters
+2023-10-29 00:19:20,217 [INFO] Can:71 - Can Add PropertyChangeListener com.st.microxplorer.plugins.ip.can.Can@17f57531
+2023-10-29 00:21:18,517 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 00:21:18,654 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 00:21:43,465 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 00:21:43,599 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 00:21:48,854 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 00:21:48,966 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 00:22:17,840 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 00:22:19,443 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 00:22:20,418 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 00:23:17,170 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 00:23:35,308 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 00:23:49,041 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 00:23:55,225 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 00:24:01,140 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 00:24:14,758 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 00:24:24,598 [INFO] Can:71 - Can Add PropertyChangeListener com.st.microxplorer.plugins.ip.can.Can@5e4d9b3a
+2023-10-29 00:24:53,452 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 00:24:53,585 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 00:24:58,740 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 938898384 Bytes (1073741824)
+2023-10-29 00:25:02,619 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 639694968 Bytes (1073741824)
+2023-10-29 00:25:11,152 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 695150888 Bytes (1073741824)
+2023-10-29 00:25:11,562 [INFO] ProjectBuilder:2337 - IP not ready for code generation: Clock
+2023-10-29 00:25:32,942 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FDCAN
+2023-10-29 00:25:32,944 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-10-29 00:25:32,945 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-10-29 00:25:32,946 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-10-29 00:25:32,947 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FDCAN
+2023-10-29 00:25:32,950 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: OPENAMP
+2023-10-29 00:25:32,951 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GIC
+2023-10-29 00:25:32,952 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-10-29 00:25:32,954 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: HSEM
+2023-10-29 00:25:32,955 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: IPCC
+2023-10-29 00:25:32,960 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-10-29 00:25:32,963 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\\db\
+2023-10-29 00:25:33,163 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:25:33,169 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:25:33,185 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:25:33,188 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:25:33,201 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:25:33,204 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:25:33,246 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:25:33,250 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:25:33,264 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:25:33,266 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:25:33,268 [INFO] CodeGenerator:1502 - *******************Project context A7 ROM selected
+2023-10-29 00:25:33,270 [INFO] CodeGenerator:1502 - *******************Project context A7S selected
+2023-10-29 00:25:33,271 [INFO] CodeGenerator:1502 - *******************Project context A7S selected
+2023-10-29 00:25:33,273 [INFO] CodeGenerator:1502 - *******************Project context A7NS selected
+2023-10-29 00:25:33,276 [INFO] CodeGenerator:1502 - *******************Project context M4 selected
+2023-10-29 00:25:33,510 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\MXTmpFiles\license.tmp_save
+2023-10-29 00:25:33,931 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\MXTmpFiles\license.tmp
+2023-10-29 00:25:34,050 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\gpio.c_save
+2023-10-29 00:25:34,258 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\gpio.c
+2023-10-29 00:25:34,281 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\gpio.h_save
+2023-10-29 00:25:34,393 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\gpio.h
+2023-10-29 00:25:34,457 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 00:25:34,524 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 00:25:34,579 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 00:25:34,630 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 00:25:34,665 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 00:25:34,751 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 00:25:34,817 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:25:34,834 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_inc.tmp_save
+2023-10-29 00:25:34,964 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_inc.tmp
+2023-10-29 00:25:34,980 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-10-29 00:25:35,083 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_kernelInit.tmp
+2023-10-29 00:25:35,096 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-10-29 00:25:35,176 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_kernelStart.tmp
+2023-10-29 00:25:35,188 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_typedefs.tmp_save
+2023-10-29 00:25:35,269 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_typedefs.tmp
+2023-10-29 00:25:35,283 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_vars.tmp_save
+2023-10-29 00:25:35,380 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_vars.tmp
+2023-10-29 00:25:35,399 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_pfp.tmp_save
+2023-10-29 00:25:35,497 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_pfp.tmp
+2023-10-29 00:25:35,519 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-10-29 00:25:35,623 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_obj_creat.tmp
+2023-10-29 00:25:35,645 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_default_thread.tmp_save
+2023-10-29 00:25:35,735 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_default_thread.tmp
+2023-10-29 00:25:35,749 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_threads.tmp_save
+2023-10-29 00:25:35,856 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_threads.tmp
+2023-10-29 00:25:35,867 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:25:35,890 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:25:35,905 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_inc.tmp_save
+2023-10-29 00:25:36,039 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_inc.tmp
+2023-10-29 00:25:36,049 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-10-29 00:25:36,105 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_kernelInit.tmp
+2023-10-29 00:25:36,114 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-10-29 00:25:36,166 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_kernelStart.tmp
+2023-10-29 00:25:36,174 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_typedefs.tmp_save
+2023-10-29 00:25:36,228 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_typedefs.tmp
+2023-10-29 00:25:36,251 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_vars.tmp_save
+2023-10-29 00:25:36,314 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_vars.tmp
+2023-10-29 00:25:36,321 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_pfp.tmp_save
+2023-10-29 00:25:36,377 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_pfp.tmp
+2023-10-29 00:25:36,399 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-10-29 00:25:36,454 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_obj_creat.tmp
+2023-10-29 00:25:36,463 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_default_thread.tmp_save
+2023-10-29 00:25:36,520 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_default_thread.tmp
+2023-10-29 00:25:36,529 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_threads.tmp_save
+2023-10-29 00:25:36,593 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_threads.tmp
+2023-10-29 00:25:36,629 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\FreeRTOSConfig.h_save
+2023-10-29 00:25:36,742 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\FreeRTOSConfig.h
+2023-10-29 00:25:36,775 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\app_freertos.c_save
+2023-10-29 00:25:36,887 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\app_freertos.c
+2023-10-29 00:25:36,911 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\fdcan.c_save
+2023-10-29 00:25:37,128 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\fdcan.c
+2023-10-29 00:25:37,158 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\fdcan.h_save
+2023-10-29 00:25:37,261 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\fdcan.h
+2023-10-29 00:25:37,287 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\ipcc.c_save
+2023-10-29 00:25:37,440 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\ipcc.c
+2023-10-29 00:25:37,451 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\ipcc.h_save
+2023-10-29 00:25:37,544 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\ipcc.h
+2023-10-29 00:25:37,550 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:25:37,566 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp_conf.h_save
+2023-10-29 00:25:37,688 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp_conf.h
+2023-10-29 00:25:37,703 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\mbox_ipcc.h_save
+2023-10-29 00:25:37,814 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\mbox_ipcc.h
+2023-10-29 00:25:37,830 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp.h_save
+2023-10-29 00:25:37,917 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp.h
+2023-10-29 00:25:37,933 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\rsc_table.h_save
+2023-10-29 00:25:38,021 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\rsc_table.h
+2023-10-29 00:25:38,035 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\mbox_ipcc.c_save
+2023-10-29 00:25:38,139 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\mbox_ipcc.c
+2023-10-29 00:25:38,152 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp.c_save
+2023-10-29 00:25:38,246 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp.c
+2023-10-29 00:25:38,260 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\rsc_table.c_save
+2023-10-29 00:25:38,348 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\rsc_table.c
+2023-10-29 00:25:38,370 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp_log.h_save
+2023-10-29 00:25:38,455 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp_log.h
+2023-10-29 00:25:38,481 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp_log.c_save
+2023-10-29 00:25:38,563 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp_log.c
+2023-10-29 00:25:38,592 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\usart.c_save
+2023-10-29 00:25:38,737 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\usart.c
+2023-10-29 00:25:38,747 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\usart.h_save
+2023-10-29 00:25:38,853 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\usart.h
+2023-10-29 00:25:38,922 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\stm32mp1xx_it.c_save
+2023-10-29 00:25:39,109 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\stm32mp1xx_it.c
+2023-10-29 00:25:39,125 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\stm32mp1xx_it.h_save
+2023-10-29 00:25:39,241 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\stm32mp1xx_it.h
+2023-10-29 00:25:39,293 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 00:25:39,322 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 00:25:39,344 [WARN] IPConfigManager:99 - WARNING: Missing Config File for VREFBUF ip!!
+2023-10-29 00:25:39,360 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 00:25:39,393 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\stm32mp1xx_hal_msp.c_save
+2023-10-29 00:25:39,512 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\stm32mp1xx_hal_msp.c
+2023-10-29 00:25:39,526 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\system.tmp_save
+2023-10-29 00:25:39,598 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\system.tmp
+2023-10-29 00:25:39,632 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\stm32mp1xx_hal_conf.h_save
+2023-10-29 00:25:39,768 [INFO] CodeEngine:335 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\stm32mp1xx_hal_conf.h
+2023-10-29 00:25:39,876 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\main.h_save
+2023-10-29 00:25:40,006 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\main.h
+2023-10-29 00:25:40,048 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\main.c_save
+2023-10-29 00:25:40,202 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\main.c
+2023-10-29 00:25:40,338 [INFO] DTGenerator:254 - 
+
+>>> DTGen : IN
+
+2023-10-29 00:25:40,462 [INFO] GenProcessManager:166 - 
+2023-10-29 00:25:40,463 [INFO] GenProcessManager:167 - Launching process: kernel-dtsBind
+
+2023-10-29 00:25:40,465 [INFO] GenerationProcess:393 - 
+
+GenProcess for OUTPUT : processName=kernel-dtsBind - Output=kernel
+=======================
+
+2023-10-29 00:25:40,468 [INFO] GenerationProcess:393 - 
+
+GenProcess for OUTPUT : processName=kernel-dtsBind - Output=u-boot
+=======================
+
+2023-10-29 00:25:40,474 [INFO] GenProcessDtsBind:271 -   >>> FW bind process - processName=kernel-dtsBind - FW=LINUX - matchingCtxt=CortexA7NS
+
+2023-10-29 00:25:40,536 [INFO] GenProcessDtsBind:271 -   >>> FW bind process - processName=kernel-dtsBind - FW=CUBE - matchingCtxt=CortexM4
+
+2023-10-29 00:25:40,574 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\kernel\stm32mp157d-interprocessorcom-mx.dts_save
+2023-10-29 00:25:40,902 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\kernel\stm32mp157d-interprocessorcom-mx.dts
+2023-10-29 00:25:40,908 [INFO] GenProcessManager:166 - 
+2023-10-29 00:25:40,911 [INFO] GenProcessManager:167 - Launching process: ddrConfigGen
+
+2023-10-29 00:25:40,913 [INFO] GenerationProcess:393 - 
+
+GenProcess for OUTPUT : processName=ddrConfigGen - Output=tf-a
+=======================
+
+2023-10-29 00:25:40,917 [ERROR] DdrService:418 - [DDR SERVICE(MCU)] The IP object exists but the DDR configuration is not valid
+2023-10-29 00:25:40,919 [WARN] GenProcessDdrConfigGen:81 - DDR config file not generated: ddrSrvc error=The DDR IP exists, but it is not properly configured. Can not access the DDR register list - outputFile=C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\tf-a\stm32mp15-mx.dtsi
+2023-10-29 00:25:40,925 [INFO] GenProcessManager:166 - 
+2023-10-29 00:25:40,927 [INFO] GenProcessManager:167 - Launching process: uboot-dtsBind
+
+2023-10-29 00:25:40,929 [INFO] GenerationProcess:393 - 
+
+GenProcess for OUTPUT : processName=uboot-dtsBind - Output=u-boot
+=======================
+
+2023-10-29 00:25:40,932 [INFO] GenProcessDtsBind:271 -   >>> FW bind process - processName=uboot-dtsBind - FW=U-BOOT - matchingCtxt=
+
+2023-10-29 00:25:40,957 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\u-boot\stm32mp157d-interprocessorcom-mx-u-boot.dtsi_save
+2023-10-29 00:25:41,092 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\u-boot\stm32mp157d-interprocessorcom-mx-u-boot.dtsi
+2023-10-29 00:25:41,096 [INFO] GenProcessManager:166 - 
+2023-10-29 00:25:41,097 [INFO] GenProcessManager:167 - Launching process: tfa-dtsBind
+
+2023-10-29 00:25:41,099 [INFO] GenerationProcess:393 - 
+
+GenProcess for OUTPUT : processName=tfa-dtsBind - Output=tf-a
+=======================
+
+2023-10-29 00:25:41,101 [INFO] GenProcessDtsBind:271 -   >>> FW bind process - processName=tfa-dtsBind - FW=TF-A - matchingCtxt=BootLoader
+
+2023-10-29 00:25:41,142 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\tf-a\stm32mp157d-interprocessorcom-mx.dts_save
+2023-10-29 00:25:41,316 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\tf-a\stm32mp157d-interprocessorcom-mx.dts
+2023-10-29 00:25:41,322 [INFO] GenProcessManager:166 - 
+2023-10-29 00:25:41,324 [INFO] GenProcessManager:167 - Launching process: fwconfig-dtsBind
+
+2023-10-29 00:25:41,326 [INFO] GenerationProcess:393 - 
+
+GenProcess for OUTPUT : processName=fwconfig-dtsBind - Output=tf-a
+=======================
+
+2023-10-29 00:25:41,345 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\tf-a\stm32mp157d-interprocessorcom-mx-fw-config.dts_save
+2023-10-29 00:25:41,451 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\tf-a\stm32mp157d-interprocessorcom-mx-fw-config.dts
+2023-10-29 00:25:41,458 [INFO] GenProcessManager:166 - 
+2023-10-29 00:25:41,459 [INFO] GenProcessManager:167 - Launching process: optee-dtsBind
+
+2023-10-29 00:25:41,460 [INFO] GenerationProcess:393 - 
+
+GenProcess for OUTPUT : processName=optee-dtsBind - Output=optee-os
+=======================
+
+2023-10-29 00:25:41,462 [INFO] GenProcessDtsBind:271 -   >>> FW bind process - processName=optee-dtsBind - FW=OP-TEE - matchingCtxt=CortexA7S
+
+2023-10-29 00:25:41,487 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\optee-os\stm32mp157d-interprocessorcom-mx.dts_save
+2023-10-29 00:25:41,705 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\optee-os\stm32mp157d-interprocessorcom-mx.dts
+2023-10-29 00:25:41,714 [INFO] DTGenerator:354 - 
+
+>>> DTGen : OUT
+
+2023-10-29 00:25:42,597 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 560mS.
+2023-10-29 00:25:42,616 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-10-29 00:25:42,850 [INFO] ConfigFileManager:1457 - The Die is : DIE500
+2023-10-29 00:25:47,566 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 4949mS.
+2023-10-29 00:25:47,569 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-10-29 00:25:47,587 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-10-29 00:26:43,506 [WARN] MainPanel:272 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2023-10-29 00:26:55,325 [WARN] MainPanel:272 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2023-10-29 00:26:59,278 [WARN] MainPanel:272 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2023-10-29 00:27:44,254 [WARN] MainPanel:272 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2023-10-29 00:28:41,828 [WARN] MainPanel:272 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2023-10-29 00:28:42,231 [WARN] MainPanel:272 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2023-10-29 00:29:36,380 [WARN] MainPanel:272 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2023-10-29 00:30:54,401 [WARN] MainPanel:272 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2023-10-29 00:31:08,922 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 00:31:09,048 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 00:31:47,835 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 00:31:47,964 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 00:32:03,532 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 00:32:03,646 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 00:32:47,000 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 844186536 Bytes (1073741824)
+2023-10-29 00:32:47,092 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 873413944 Bytes (1073741824)
+2023-10-29 00:32:49,776 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 927402192 Bytes (1073741824)
+2023-10-29 00:32:50,040 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FDCAN
+2023-10-29 00:32:50,042 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-10-29 00:32:50,044 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-10-29 00:32:50,045 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-10-29 00:32:50,047 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FDCAN
+2023-10-29 00:32:50,048 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: OPENAMP
+2023-10-29 00:32:50,049 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GIC
+2023-10-29 00:32:50,050 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-10-29 00:32:50,051 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: HSEM
+2023-10-29 00:32:50,052 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: IPCC
+2023-10-29 00:32:50,057 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-10-29 00:32:50,059 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\\db\
+2023-10-29 00:32:50,155 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:32:50,158 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:32:50,169 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:32:50,171 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:32:50,186 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:32:50,189 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:32:50,200 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:32:50,236 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:32:50,248 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:32:50,250 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:32:50,253 [INFO] CodeGenerator:1502 - *******************Project context A7 ROM selected
+2023-10-29 00:32:50,255 [INFO] CodeGenerator:1502 - *******************Project context A7S selected
+2023-10-29 00:32:50,256 [INFO] CodeGenerator:1502 - *******************Project context A7S selected
+2023-10-29 00:32:50,257 [INFO] CodeGenerator:1502 - *******************Project context A7NS selected
+2023-10-29 00:32:50,258 [INFO] CodeGenerator:1502 - *******************Project context M4 selected
+2023-10-29 00:32:50,369 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\MXTmpFiles\license.tmp_save
+2023-10-29 00:32:50,514 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\MXTmpFiles\license.tmp
+2023-10-29 00:32:50,568 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\gpio.c_save
+2023-10-29 00:32:50,685 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\gpio.c
+2023-10-29 00:32:50,695 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\gpio.h_save
+2023-10-29 00:32:50,768 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\gpio.h
+2023-10-29 00:32:50,786 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 00:32:50,805 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 00:32:50,828 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 00:32:50,855 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 00:32:50,871 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 00:32:50,890 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 00:32:50,919 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:32:50,930 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_inc.tmp_save
+2023-10-29 00:32:51,056 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_inc.tmp
+2023-10-29 00:32:51,063 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-10-29 00:32:51,129 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_kernelInit.tmp
+2023-10-29 00:32:51,135 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-10-29 00:32:51,186 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_kernelStart.tmp
+2023-10-29 00:32:51,192 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_typedefs.tmp_save
+2023-10-29 00:32:51,291 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_typedefs.tmp
+2023-10-29 00:32:51,297 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_vars.tmp_save
+2023-10-29 00:32:51,366 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_vars.tmp
+2023-10-29 00:32:51,372 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_pfp.tmp_save
+2023-10-29 00:32:51,443 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_pfp.tmp
+2023-10-29 00:32:51,453 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-10-29 00:32:51,519 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_obj_creat.tmp
+2023-10-29 00:32:51,526 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_default_thread.tmp_save
+2023-10-29 00:32:51,596 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_default_thread.tmp
+2023-10-29 00:32:51,603 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_threads.tmp_save
+2023-10-29 00:32:51,709 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_threads.tmp
+2023-10-29 00:32:51,716 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:32:51,730 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:32:51,741 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_inc.tmp_save
+2023-10-29 00:32:51,868 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_inc.tmp
+2023-10-29 00:32:51,876 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-10-29 00:32:51,932 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_kernelInit.tmp
+2023-10-29 00:32:51,940 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-10-29 00:32:51,995 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_kernelStart.tmp
+2023-10-29 00:32:52,004 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_typedefs.tmp_save
+2023-10-29 00:32:52,071 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_typedefs.tmp
+2023-10-29 00:32:52,097 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_vars.tmp_save
+2023-10-29 00:32:52,156 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_vars.tmp
+2023-10-29 00:32:52,163 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_pfp.tmp_save
+2023-10-29 00:32:52,217 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_pfp.tmp
+2023-10-29 00:32:52,239 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-10-29 00:32:52,302 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_obj_creat.tmp
+2023-10-29 00:32:52,309 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_default_thread.tmp_save
+2023-10-29 00:32:52,368 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_default_thread.tmp
+2023-10-29 00:32:52,380 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_threads.tmp_save
+2023-10-29 00:32:52,437 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_threads.tmp
+2023-10-29 00:32:52,463 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\FreeRTOSConfig.h_save
+2023-10-29 00:32:52,560 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\FreeRTOSConfig.h
+2023-10-29 00:32:52,587 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\app_freertos.c_save
+2023-10-29 00:32:52,670 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\app_freertos.c
+2023-10-29 00:32:52,704 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\fdcan.c_save
+2023-10-29 00:32:52,870 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\fdcan.c
+2023-10-29 00:32:52,889 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\fdcan.h_save
+2023-10-29 00:32:52,968 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\fdcan.h
+2023-10-29 00:32:52,999 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\ipcc.c_save
+2023-10-29 00:32:53,117 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\ipcc.c
+2023-10-29 00:32:53,125 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\ipcc.h_save
+2023-10-29 00:32:53,207 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\ipcc.h
+2023-10-29 00:32:53,211 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 00:32:53,234 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp_conf.h_save
+2023-10-29 00:32:53,359 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp_conf.h
+2023-10-29 00:32:53,371 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\mbox_ipcc.h_save
+2023-10-29 00:32:53,457 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\mbox_ipcc.h
+2023-10-29 00:32:53,478 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp.h_save
+2023-10-29 00:32:53,550 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp.h
+2023-10-29 00:32:53,557 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\rsc_table.h_save
+2023-10-29 00:32:53,639 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\rsc_table.h
+2023-10-29 00:32:53,661 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\mbox_ipcc.c_save
+2023-10-29 00:32:53,781 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\mbox_ipcc.c
+2023-10-29 00:32:53,789 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp.c_save
+2023-10-29 00:32:53,880 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp.c
+2023-10-29 00:32:53,888 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\rsc_table.c_save
+2023-10-29 00:32:53,963 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\rsc_table.c
+2023-10-29 00:32:53,974 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp_log.h_save
+2023-10-29 00:32:54,061 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp_log.h
+2023-10-29 00:32:54,069 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp_log.c_save
+2023-10-29 00:32:54,143 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp_log.c
+2023-10-29 00:32:54,173 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\usart.c_save
+2023-10-29 00:32:54,285 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\usart.c
+2023-10-29 00:32:54,294 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\usart.h_save
+2023-10-29 00:32:54,355 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\usart.h
+2023-10-29 00:32:54,394 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\stm32mp1xx_it.c_save
+2023-10-29 00:32:54,590 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\stm32mp1xx_it.c
+2023-10-29 00:32:54,609 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\stm32mp1xx_it.h_save
+2023-10-29 00:32:54,696 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\stm32mp1xx_it.h
+2023-10-29 00:32:54,721 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 00:32:54,736 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 00:32:54,744 [WARN] IPConfigManager:99 - WARNING: Missing Config File for VREFBUF ip!!
+2023-10-29 00:32:54,768 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 00:32:54,798 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\stm32mp1xx_hal_msp.c_save
+2023-10-29 00:32:54,925 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\stm32mp1xx_hal_msp.c
+2023-10-29 00:32:54,931 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\system.tmp_save
+2023-10-29 00:32:54,998 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\system.tmp
+2023-10-29 00:32:55,033 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\stm32mp1xx_hal_conf.h_save
+2023-10-29 00:32:55,192 [INFO] CodeEngine:335 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\stm32mp1xx_hal_conf.h
+2023-10-29 00:32:55,247 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\main.h_save
+2023-10-29 00:32:55,383 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\main.h
+2023-10-29 00:32:55,409 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\main.c_save
+2023-10-29 00:32:55,542 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\main.c
+2023-10-29 00:32:55,654 [INFO] DTGenerator:254 - 
+
+>>> DTGen : IN
+
+2023-10-29 00:32:55,716 [INFO] GenProcessManager:166 - 
+2023-10-29 00:32:55,717 [INFO] GenProcessManager:167 - Launching process: kernel-dtsBind
+
+2023-10-29 00:32:55,718 [INFO] GenerationProcess:393 - 
+
+GenProcess for OUTPUT : processName=kernel-dtsBind - Output=kernel
+=======================
+
+2023-10-29 00:32:55,720 [INFO] GenerationProcess:393 - 
+
+GenProcess for OUTPUT : processName=kernel-dtsBind - Output=u-boot
+=======================
+
+2023-10-29 00:32:55,724 [INFO] GenProcessDtsBind:271 -   >>> FW bind process - processName=kernel-dtsBind - FW=LINUX - matchingCtxt=CortexA7NS
+
+2023-10-29 00:32:55,736 [INFO] GenProcessDtsBind:271 -   >>> FW bind process - processName=kernel-dtsBind - FW=CUBE - matchingCtxt=CortexM4
+
+2023-10-29 00:32:55,766 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\kernel\stm32mp157d-interprocessorcom-mx.dts_save
+2023-10-29 00:32:55,906 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\kernel\stm32mp157d-interprocessorcom-mx.dts
+2023-10-29 00:32:55,914 [INFO] GenProcessManager:166 - 
+2023-10-29 00:32:55,915 [INFO] GenProcessManager:167 - Launching process: ddrConfigGen
+
+2023-10-29 00:32:55,916 [INFO] GenerationProcess:393 - 
+
+GenProcess for OUTPUT : processName=ddrConfigGen - Output=tf-a
+=======================
+
+2023-10-29 00:32:55,918 [ERROR] DdrService:418 - [DDR SERVICE(MCU)] The IP object exists but the DDR configuration is not valid
+2023-10-29 00:32:55,920 [WARN] GenProcessDdrConfigGen:81 - DDR config file not generated: ddrSrvc error=The DDR IP exists, but it is not properly configured. Can not access the DDR register list - outputFile=C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\tf-a\stm32mp15-mx.dtsi
+2023-10-29 00:32:55,923 [INFO] GenProcessManager:166 - 
+2023-10-29 00:32:55,924 [INFO] GenProcessManager:167 - Launching process: uboot-dtsBind
+
+2023-10-29 00:32:55,925 [INFO] GenerationProcess:393 - 
+
+GenProcess for OUTPUT : processName=uboot-dtsBind - Output=u-boot
+=======================
+
+2023-10-29 00:32:55,927 [INFO] GenProcessDtsBind:271 -   >>> FW bind process - processName=uboot-dtsBind - FW=U-BOOT - matchingCtxt=
+
+2023-10-29 00:32:55,972 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\u-boot\stm32mp157d-interprocessorcom-mx-u-boot.dtsi_save
+2023-10-29 00:32:56,073 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\u-boot\stm32mp157d-interprocessorcom-mx-u-boot.dtsi
+2023-10-29 00:32:56,079 [INFO] GenProcessManager:166 - 
+2023-10-29 00:32:56,081 [INFO] GenProcessManager:167 - Launching process: tfa-dtsBind
+
+2023-10-29 00:32:56,082 [INFO] GenerationProcess:393 - 
+
+GenProcess for OUTPUT : processName=tfa-dtsBind - Output=tf-a
+=======================
+
+2023-10-29 00:32:56,084 [INFO] GenProcessDtsBind:271 -   >>> FW bind process - processName=tfa-dtsBind - FW=TF-A - matchingCtxt=BootLoader
+
+2023-10-29 00:32:56,109 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\tf-a\stm32mp157d-interprocessorcom-mx.dts_save
+2023-10-29 00:32:56,239 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\tf-a\stm32mp157d-interprocessorcom-mx.dts
+2023-10-29 00:32:56,246 [INFO] GenProcessManager:166 - 
+2023-10-29 00:32:56,248 [INFO] GenProcessManager:167 - Launching process: fwconfig-dtsBind
+
+2023-10-29 00:32:56,250 [INFO] GenerationProcess:393 - 
+
+GenProcess for OUTPUT : processName=fwconfig-dtsBind - Output=tf-a
+=======================
+
+2023-10-29 00:32:56,270 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\tf-a\stm32mp157d-interprocessorcom-mx-fw-config.dts_save
+2023-10-29 00:32:56,382 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\tf-a\stm32mp157d-interprocessorcom-mx-fw-config.dts
+2023-10-29 00:32:56,388 [INFO] GenProcessManager:166 - 
+2023-10-29 00:32:56,389 [INFO] GenProcessManager:167 - Launching process: optee-dtsBind
+
+2023-10-29 00:32:56,391 [INFO] GenerationProcess:393 - 
+
+GenProcess for OUTPUT : processName=optee-dtsBind - Output=optee-os
+=======================
+
+2023-10-29 00:32:56,393 [INFO] GenProcessDtsBind:271 -   >>> FW bind process - processName=optee-dtsBind - FW=OP-TEE - matchingCtxt=CortexA7S
+
+2023-10-29 00:32:56,420 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\optee-os\stm32mp157d-interprocessorcom-mx.dts_save
+2023-10-29 00:32:56,637 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\optee-os\stm32mp157d-interprocessorcom-mx.dts
+2023-10-29 00:32:56,643 [INFO] DTGenerator:354 - 
+
+>>> DTGen : OUT
+
+2023-10-29 00:32:57,461 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 547mS.
+2023-10-29 00:32:57,475 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-10-29 00:32:57,710 [INFO] ConfigFileManager:1457 - The Die is : DIE500
+2023-10-29 00:32:59,810 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 2335mS.
+2023-10-29 00:32:59,812 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-10-29 00:32:59,826 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-10-29 22:17:22,515 [INFO] ParamManager:896 - [Generic UI] PropertyChangeEvent: TAB_STATUS_CHANGED , "dont care", "never mind"
+2023-10-29 22:17:22,537 [INFO] ParamManager:896 - [Generic UI] PropertyChangeEvent: TAB_STATUS_CHANGED , "dont care", "never mind"
+2023-10-29 22:17:22,551 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:22,584 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:22,585 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:22,586 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:22,587 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:22,588 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:22,589 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:22,590 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:22,591 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:22,592 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:22,593 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:22,594 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:22,595 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:22,596 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:22,597 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:22,598 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:22,598 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:22,599 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:22,600 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:22,601 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:22,602 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:22,610 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:22,818 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 22:17:22,990 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 22:17:23,184 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 22:17:23,285 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,286 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,287 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,288 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,289 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,290 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,291 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,291 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,292 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,293 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,294 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,295 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,296 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,297 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,297 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,298 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,299 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,300 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,301 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,301 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,367 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,441 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,442 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,443 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,444 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,445 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,446 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,447 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,448 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,448 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,449 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,450 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,451 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,452 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,453 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,454 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,454 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,455 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,456 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,457 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,458 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:17:23,524 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:00,284 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,556x397,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 22:19:06,282 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:06,283 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:06,284 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:06,285 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:06,286 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:06,287 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:06,288 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:06,289 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:06,289 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:06,290 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:06,291 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:06,292 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:06,293 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:06,294 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:06,295 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:06,295 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:06,296 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:06,297 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:06,298 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:06,299 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:06,365 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:12,387 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:12,388 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:12,389 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:12,390 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:12,391 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:12,392 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:12,392 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:12,393 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:12,394 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:12,395 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:12,396 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:12,396 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:12,397 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:12,398 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:12,399 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:12,400 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:12,401 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:12,401 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:12,402 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:12,403 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:19:12,461 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:20:20,415 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:20:20,417 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:20:20,418 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:20:20,419 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:20:20,419 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:20:20,420 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:20:20,421 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:20:20,422 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:20:20,423 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:20:20,424 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:20:20,425 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:20:20,425 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:20:20,426 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:20:20,427 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:20:20,428 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:20:20,429 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:20:20,430 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:20:20,430 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:20:20,431 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:20:20,432 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:20:20,490 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,804 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,809 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,810 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,811 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,812 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,813 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,814 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,815 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,816 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,817 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,818 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,819 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,820 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,821 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,822 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,823 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,824 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,825 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,826 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,827 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,834 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,846 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,847 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,849 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,850 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,850 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,851 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,852 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,853 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,854 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,855 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,856 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,857 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,858 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,859 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,860 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,861 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,862 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,863 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,864 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,865 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,871 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,953 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,955 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,956 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,957 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,958 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,959 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,960 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,961 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,962 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,963 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,964 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,965 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,967 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,968 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,969 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,970 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,971 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,972 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,972 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:23,973 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:24,029 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-29 22:21:42,895 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-10-29 22:21:50,312 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 22:21:50,394 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-10-29 22:21:50,396 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-10-29 22:21:50,397 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-10-29 22:21:50,398 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-10-29 22:21:50,399 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-10-29 22:21:50,400 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-10-29 22:21:50,401 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-10-29 22:21:50,402 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-10-29 22:21:50,403 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-10-29 22:21:50,404 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-10-29 22:21:50,405 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-10-29 22:21:50,406 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-10-29 22:21:50,406 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-10-29 22:21:50,407 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-10-29 22:21:50,408 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-10-29 22:21:50,409 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-10-29 22:21:50,410 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-10-29 22:21:50,411 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-10-29 22:21:50,412 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-10-29 22:21:50,413 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-10-29 22:21:50,473 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-10-29 22:25:04,487 [INFO] IpGicPanel:101 - GIC parent = javax.swing.JViewport[,0,0,401x302,layout=javax.swing.ViewportLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=8388616,maximumSize=,minimumSize=,preferredSize=,isViewSizeSet=true,lastPaintPosition=java.awt.Point[x=0,y=0],scrollUnderway=false]
+2023-10-29 22:25:17,035 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,450x302,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-29 22:29:38,205 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 807663640 Bytes (1073741824)
+2023-10-29 22:29:38,282 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 838576616 Bytes (1073741824)
+2023-10-29 22:29:40,118 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 646922712 Bytes (1073741824)
+2023-10-29 22:29:40,301 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FDCAN
+2023-10-29 22:29:40,303 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-10-29 22:29:40,304 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-10-29 22:29:40,305 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-10-29 22:29:40,306 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FDCAN
+2023-10-29 22:29:40,307 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: OPENAMP
+2023-10-29 22:29:40,308 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GIC
+2023-10-29 22:29:40,309 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2023-10-29 22:29:40,310 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-10-29 22:29:40,310 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: HSEM
+2023-10-29 22:29:40,311 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: IPCC
+2023-10-29 22:29:40,313 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-10-29 22:29:40,315 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\\db\
+2023-10-29 22:29:40,401 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 22:29:40,402 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 22:29:40,411 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 22:29:40,412 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 22:29:40,421 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 22:29:40,422 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 22:29:40,431 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 22:29:40,432 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 22:29:40,441 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 22:29:40,442 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 22:29:40,443 [INFO] CodeGenerator:1502 - *******************Project context A7 ROM selected
+2023-10-29 22:29:40,444 [INFO] CodeGenerator:1502 - *******************Project context A7S selected
+2023-10-29 22:29:40,445 [INFO] CodeGenerator:1502 - *******************Project context A7S selected
+2023-10-29 22:29:40,445 [INFO] CodeGenerator:1502 - *******************Project context A7NS selected
+2023-10-29 22:29:40,446 [INFO] CodeGenerator:1502 - *******************Project context M4 selected
+2023-10-29 22:29:40,573 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\MXTmpFiles\license.tmp_save
+2023-10-29 22:29:40,634 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\MXTmpFiles\license.tmp
+2023-10-29 22:29:40,662 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\gpio.c_save
+2023-10-29 22:29:40,725 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\gpio.c
+2023-10-29 22:29:40,735 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\gpio.h_save
+2023-10-29 22:29:40,819 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\gpio.h
+2023-10-29 22:29:40,861 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 22:29:40,889 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 22:29:40,904 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 22:29:40,918 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 22:29:40,930 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 22:29:40,943 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 22:29:40,958 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 22:29:40,981 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 22:29:40,991 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_inc.tmp_save
+2023-10-29 22:29:41,048 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_inc.tmp
+2023-10-29 22:29:41,056 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-10-29 22:29:41,109 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_kernelInit.tmp
+2023-10-29 22:29:41,118 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-10-29 22:29:41,162 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_kernelStart.tmp
+2023-10-29 22:29:41,172 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_typedefs.tmp_save
+2023-10-29 22:29:41,225 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_typedefs.tmp
+2023-10-29 22:29:41,235 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_vars.tmp_save
+2023-10-29 22:29:41,289 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_vars.tmp
+2023-10-29 22:29:41,301 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_pfp.tmp_save
+2023-10-29 22:29:41,366 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_pfp.tmp
+2023-10-29 22:29:41,379 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-10-29 22:29:41,437 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_obj_creat.tmp
+2023-10-29 22:29:41,447 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_default_thread.tmp_save
+2023-10-29 22:29:41,507 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_default_thread.tmp
+2023-10-29 22:29:41,517 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_threads.tmp_save
+2023-10-29 22:29:41,568 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_threads.tmp
+2023-10-29 22:29:41,572 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 22:29:41,581 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 22:29:41,588 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_inc.tmp_save
+2023-10-29 22:29:41,653 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_inc.tmp
+2023-10-29 22:29:41,658 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-10-29 22:29:41,710 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_kernelInit.tmp
+2023-10-29 22:29:41,715 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-10-29 22:29:41,757 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_kernelStart.tmp
+2023-10-29 22:29:41,763 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_typedefs.tmp_save
+2023-10-29 22:29:41,803 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_typedefs.tmp
+2023-10-29 22:29:41,815 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_vars.tmp_save
+2023-10-29 22:29:41,858 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_vars.tmp
+2023-10-29 22:29:41,863 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_pfp.tmp_save
+2023-10-29 22:29:41,900 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_pfp.tmp
+2023-10-29 22:29:41,911 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-10-29 22:29:41,951 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_obj_creat.tmp
+2023-10-29 22:29:41,956 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_default_thread.tmp_save
+2023-10-29 22:29:41,995 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_default_thread.tmp
+2023-10-29 22:29:42,000 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_threads.tmp_save
+2023-10-29 22:29:42,038 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\rtos_threads.tmp
+2023-10-29 22:29:42,057 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\FreeRTOSConfig.h_save
+2023-10-29 22:29:42,122 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\FreeRTOSConfig.h
+2023-10-29 22:29:42,137 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\app_freertos.c_save
+2023-10-29 22:29:42,199 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\app_freertos.c
+2023-10-29 22:29:42,213 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\adc.c_save
+2023-10-29 22:29:42,296 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\adc.c
+2023-10-29 22:29:42,306 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\adc.h_save
+2023-10-29 22:29:42,361 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\adc.h
+2023-10-29 22:29:42,375 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\fdcan.c_save
+2023-10-29 22:29:42,452 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\fdcan.c
+2023-10-29 22:29:42,458 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\fdcan.h_save
+2023-10-29 22:29:42,513 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\fdcan.h
+2023-10-29 22:29:42,526 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\ipcc.c_save
+2023-10-29 22:29:42,592 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\ipcc.c
+2023-10-29 22:29:42,597 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\ipcc.h_save
+2023-10-29 22:29:42,655 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\ipcc.h
+2023-10-29 22:29:42,659 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-10-29 22:29:42,673 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp_conf.h_save
+2023-10-29 22:29:42,723 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp_conf.h
+2023-10-29 22:29:42,734 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\mbox_ipcc.h_save
+2023-10-29 22:29:42,783 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\mbox_ipcc.h
+2023-10-29 22:29:42,793 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp.h_save
+2023-10-29 22:29:42,844 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp.h
+2023-10-29 22:29:42,854 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\rsc_table.h_save
+2023-10-29 22:29:42,904 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\rsc_table.h
+2023-10-29 22:29:42,918 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\mbox_ipcc.c_save
+2023-10-29 22:29:42,972 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\mbox_ipcc.c
+2023-10-29 22:29:42,982 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp.c_save
+2023-10-29 22:29:43,035 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp.c
+2023-10-29 22:29:43,044 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\rsc_table.c_save
+2023-10-29 22:29:43,092 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\rsc_table.c
+2023-10-29 22:29:43,101 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp_log.h_save
+2023-10-29 22:29:43,150 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp_log.h
+2023-10-29 22:29:43,160 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp_log.c_save
+2023-10-29 22:29:43,204 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\OPENAMP\openamp_log.c
+2023-10-29 22:29:43,217 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\usart.c_save
+2023-10-29 22:29:43,287 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\usart.c
+2023-10-29 22:29:43,292 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\usart.h_save
+2023-10-29 22:29:43,348 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\usart.h
+2023-10-29 22:29:43,374 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\stm32mp1xx_it.c_save
+2023-10-29 22:29:43,471 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\stm32mp1xx_it.c
+2023-10-29 22:29:43,480 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\stm32mp1xx_it.h_save
+2023-10-29 22:29:43,531 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\stm32mp1xx_it.h
+2023-10-29 22:29:43,544 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 22:29:43,555 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 22:29:43,558 [WARN] IPConfigManager:99 - WARNING: Missing Config File for VREFBUF ip!!
+2023-10-29 22:29:43,569 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MDMA ip!!
+2023-10-29 22:29:43,587 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\stm32mp1xx_hal_msp.c_save
+2023-10-29 22:29:43,655 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\stm32mp1xx_hal_msp.c
+2023-10-29 22:29:43,664 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\system.tmp_save
+2023-10-29 22:29:43,712 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\MXTmpFiles\system.tmp
+2023-10-29 22:29:43,731 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\stm32mp1xx_hal_conf.h_save
+2023-10-29 22:29:43,802 [INFO] CodeEngine:335 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\stm32mp1xx_hal_conf.h
+2023-10-29 22:29:43,853 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\main.h_save
+2023-10-29 22:29:43,940 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Inc\main.h
+2023-10-29 22:29:43,957 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\main.c_save
+2023-10-29 22:29:44,041 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CM4\Core\Src\main.c
+2023-10-29 22:29:44,108 [INFO] DTGenerator:254 - 
+
+>>> DTGen : IN
+
+2023-10-29 22:29:44,146 [INFO] GenProcessManager:166 - 
+2023-10-29 22:29:44,147 [INFO] GenProcessManager:167 - Launching process: kernel-dtsBind
+
+2023-10-29 22:29:44,148 [INFO] GenerationProcess:393 - 
+
+GenProcess for OUTPUT : processName=kernel-dtsBind - Output=kernel
+=======================
+
+2023-10-29 22:29:44,149 [INFO] GenerationProcess:393 - 
+
+GenProcess for OUTPUT : processName=kernel-dtsBind - Output=u-boot
+=======================
+
+2023-10-29 22:29:44,152 [INFO] GenProcessDtsBind:271 -   >>> FW bind process - processName=kernel-dtsBind - FW=LINUX - matchingCtxt=CortexA7NS
+
+2023-10-29 22:29:44,187 [INFO] GenProcessDtsBind:271 -   >>> FW bind process - processName=kernel-dtsBind - FW=CUBE - matchingCtxt=CortexM4
+
+2023-10-29 22:29:44,211 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\kernel\stm32mp157d-interprocessorcom-mx.dts_save
+2023-10-29 22:29:44,381 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\kernel\stm32mp157d-interprocessorcom-mx.dts
+2023-10-29 22:29:44,385 [INFO] GenProcessManager:166 - 
+2023-10-29 22:29:44,386 [INFO] GenProcessManager:167 - Launching process: ddrConfigGen
+
+2023-10-29 22:29:44,387 [INFO] GenerationProcess:393 - 
+
+GenProcess for OUTPUT : processName=ddrConfigGen - Output=tf-a
+=======================
+
+2023-10-29 22:29:44,389 [ERROR] DdrService:418 - [DDR SERVICE(MCU)] The IP object exists but the DDR configuration is not valid
+2023-10-29 22:29:44,390 [WARN] GenProcessDdrConfigGen:81 - DDR config file not generated: ddrSrvc error=The DDR IP exists, but it is not properly configured. Can not access the DDR register list - outputFile=C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\tf-a\stm32mp15-mx.dtsi
+2023-10-29 22:29:44,392 [INFO] GenProcessManager:166 - 
+2023-10-29 22:29:44,393 [INFO] GenProcessManager:167 - Launching process: uboot-dtsBind
+
+2023-10-29 22:29:44,394 [INFO] GenerationProcess:393 - 
+
+GenProcess for OUTPUT : processName=uboot-dtsBind - Output=u-boot
+=======================
+
+2023-10-29 22:29:44,395 [INFO] GenProcessDtsBind:271 -   >>> FW bind process - processName=uboot-dtsBind - FW=U-BOOT - matchingCtxt=
+
+2023-10-29 22:29:44,407 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\u-boot\stm32mp157d-interprocessorcom-mx-u-boot.dtsi_save
+2023-10-29 22:29:44,480 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\u-boot\stm32mp157d-interprocessorcom-mx-u-boot.dtsi
+2023-10-29 22:29:44,483 [INFO] GenProcessManager:166 - 
+2023-10-29 22:29:44,484 [INFO] GenProcessManager:167 - Launching process: tfa-dtsBind
+
+2023-10-29 22:29:44,485 [INFO] GenerationProcess:393 - 
+
+GenProcess for OUTPUT : processName=tfa-dtsBind - Output=tf-a
+=======================
+
+2023-10-29 22:29:44,486 [INFO] GenProcessDtsBind:271 -   >>> FW bind process - processName=tfa-dtsBind - FW=TF-A - matchingCtxt=BootLoader
+
+2023-10-29 22:29:44,506 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\tf-a\stm32mp157d-interprocessorcom-mx.dts_save
+2023-10-29 22:29:44,644 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\tf-a\stm32mp157d-interprocessorcom-mx.dts
+2023-10-29 22:29:44,648 [INFO] GenProcessManager:166 - 
+2023-10-29 22:29:44,649 [INFO] GenProcessManager:167 - Launching process: fwconfig-dtsBind
+
+2023-10-29 22:29:44,650 [INFO] GenerationProcess:393 - 
+
+GenProcess for OUTPUT : processName=fwconfig-dtsBind - Output=tf-a
+=======================
+
+2023-10-29 22:29:44,660 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\tf-a\stm32mp157d-interprocessorcom-mx-fw-config.dts_save
+2023-10-29 22:29:44,696 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-10-29 22:29:44,720 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\tf-a\stm32mp157d-interprocessorcom-mx-fw-config.dts
+2023-10-29 22:29:44,723 [INFO] GenProcessManager:166 - 
+2023-10-29 22:29:44,724 [INFO] GenProcessManager:167 - Launching process: optee-dtsBind
+
+2023-10-29 22:29:44,725 [INFO] GenerationProcess:393 - 
+
+GenProcess for OUTPUT : processName=optee-dtsBind - Output=optee-os
+=======================
+
+2023-10-29 22:29:44,726 [INFO] GenProcessDtsBind:271 -   >>> FW bind process - processName=optee-dtsBind - FW=OP-TEE - matchingCtxt=CortexA7S
+
+2023-10-29 22:29:44,738 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\optee-os\stm32mp157d-interprocessorcom-mx.dts_save
+2023-10-29 22:29:44,844 [INFO] CodeEngine:279 - Generated code: C:\Wenjie\STM32MP175\InterProcessorCom\CA7\DeviceTree\InterProcessorCom\optee-os\stm32mp157d-interprocessorcom-mx.dts
+2023-10-29 22:29:44,849 [INFO] DTGenerator:354 - 
+
+>>> DTGen : OUT
+
+2023-10-29 22:29:45,406 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 364mS.
+2023-10-29 22:29:45,413 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-10-29 22:29:45,529 [INFO] ConfigFileManager:1457 - The Die is : DIE500
+2023-10-29 22:29:47,160 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1747mS.
+2023-10-29 22:29:47,163 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-10-29 22:29:47,179 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.

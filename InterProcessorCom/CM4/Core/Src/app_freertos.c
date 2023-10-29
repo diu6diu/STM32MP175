@@ -97,7 +97,7 @@ const osTimerAttr_t Timer_50ms_attributes = {
 void StartDefaultTask(void *argument);
 void AppTask_Entry(void *argument);
 void App_Cyclic_Task_5ms(void *argument);
-extern void App_Cyclic_Task_10ms(void *argument);
+void App_Cyclic_Task_10ms(void *argument);
 void App_Cyclic_Task_25ms(void *argument);
 void App_Cyclic_Task_50ms(void *argument);
 
@@ -166,7 +166,7 @@ void MX_FREERTOS_Init(void) {
   * @retval None
   */
 /* USER CODE END Header_StartDefaultTask */
-void StartDefaultTask(void *argument)
+__weak void StartDefaultTask(void *argument)
 {
   /* USER CODE BEGIN StartDefaultTask */
   /* Infinite loop */
@@ -184,7 +184,7 @@ void StartDefaultTask(void *argument)
 * @retval None
 */
 /* USER CODE END Header_AppTask_Entry */
-void AppTask_Entry(void *argument)
+__weak void AppTask_Entry(void *argument)
 {
   /* USER CODE BEGIN AppTask_Entry */
   /* Infinite loop */
@@ -203,8 +203,16 @@ __weak void App_Cyclic_Task_5ms(void *argument)
   /* USER CODE END App_Cyclic_Task_5ms */
 }
 
+/* App_Cyclic_Task_10ms function */
+__weak void App_Cyclic_Task_10ms(void *argument)
+{
+  /* USER CODE BEGIN App_Cyclic_Task_10ms */
+
+  /* USER CODE END App_Cyclic_Task_10ms */
+}
+
 /* App_Cyclic_Task_25ms function */
-void App_Cyclic_Task_25ms(void *argument)
+__weak void App_Cyclic_Task_25ms(void *argument)
 {
   /* USER CODE BEGIN App_Cyclic_Task_25ms */
 

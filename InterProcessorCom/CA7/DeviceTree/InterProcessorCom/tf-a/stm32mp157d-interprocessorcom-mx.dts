@@ -54,7 +54,7 @@
 			/* USER CODE END clk_lse */
 		};
 		clk_hse: clk-hse {
-			status = "disabled";
+			clock-frequency = <24000000>;
 
 			/* USER CODE BEGIN clk_hse */
 			/* USER CODE END clk_hse */
@@ -80,19 +80,19 @@
 	/* USER CODE END rcc */
 
 	st,clksrc = <
-		CLK_CKPER_DISABLED
+		CLK_CKPER_HSI
 		CLK_STGEN_HSI
 		CLK_MPU_PLL1P
 		CLK_AXI_HSI
-		CLK_MCU_HSI
+		CLK_MCU_PLL3P
 	>;
 	st,clkdiv = <
 		DIV(DIV_MPU, 1)
 		DIV(DIV_AXI, 0)
 		DIV(DIV_MCU, 0)
-		DIV(DIV_APB1, 0)
-		DIV(DIV_APB2, 0)
-		DIV(DIV_APB3, 0)
+		DIV(DIV_APB1, 1)
+		DIV(DIV_APB2, 1)
+		DIV(DIV_APB3, 1)
 		DIV(DIV_APB4, 0)
 		DIV(DIV_APB5, 0)
 		DIV(DIV_RTC, 0)
@@ -100,8 +100,26 @@
 		DIV(DIV_MCO2, 0)
 	>;
 	st,pll_vco {
+		pll3_vco_400Mhz: pll3-vco-400Mhz {
+			src = < CLK_PLL3_HSI >;
+			divmn = < 3 24 >;
+		};
 		/* USER CODE BEGIN rcc_st-pll_vco */
 		/* USER CODE END rcc_st-pll_vco */
+	};
+
+	pll3:st,pll@2 {
+		compatible = "st,stm32mp1-pll";
+		reg = <2>;
+
+		st,pll = < &pll3_cfg1 >;
+
+		pll3_cfg1: pll3_cfg1 {
+			st,pll_vco = < &pll3_vco_400Mhz >;
+			st,pll_div_pqr = < 1 3 1 >;
+		};
+		/* USER CODE BEGIN pll3 */
+		/* USER CODE END pll3 */
 	};
 
 };
