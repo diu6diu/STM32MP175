@@ -1,5 +1,0 @@
-MANIFEST_VERSION = openstlinux-6.1-yocto-mickledore-mp1-v23.06.21
-KERNEL_DT = ./DeviceTree/InterProcessorCom/kernel
-OPTEE_DT = ./DeviceTree/InterProcessorCom/optee-os
-UBOOT_DT = ./DeviceTree/InterProcessorCom/u-boot
-TFA_DT = ./DeviceTree/InterProcessorCom/tf-a

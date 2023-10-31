@@ -1,0 +1,5 @@
+MANIFEST_VERSION = openstlinux-6.1-yocto-mickledore-mp1-v23.06.21
+KERNEL_DT = ./DeviceTree/RT_CortexM/kernel
+OPTEE_DT = ./DeviceTree/RT_CortexM/optee-os
+UBOOT_DT = ./DeviceTree/RT_CortexM/u-boot
+TFA_DT = ./DeviceTree/RT_CortexM/tf-a

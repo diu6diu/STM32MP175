@@ -1,0 +1,6 @@
+2023-10-31 23:37:04,977 [INFO] DdrUtils:79 - [DDR IP] The IP object exists but the DDR configuration is not valid
+2023-10-31 23:37:04,991 [INFO] CubeProgrammer:495 - [DDR PANEL] - PathOfProgrammer: null
+2023-10-31 23:37:04,994 [INFO] CubeProgrammer:495 - [DDR PANEL] - PathOfProgrammer: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_2.1.0.202305091550\tools\bin
+2023-10-31 23:37:04,998 [INFO] ProgrammerExecThread:149 - [ProgrammerAPI] CubeProgrammer command construction: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_2.1.0.202305091550\tools\bin\STM32_Programmer_CLI.exe -l
+2023-10-31 23:37:05,199 [INFO] MainDdrPanel:64 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_2.1.0.202305091550\tools\bin
+2023-10-31 23:37:05,254 [INFO] OpenFileManager:328 - Restore cursor
