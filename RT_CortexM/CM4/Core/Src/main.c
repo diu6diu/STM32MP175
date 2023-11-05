@@ -37,7 +37,7 @@
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
-
+#define RPMSG_SERVICE_NAME "rpmsg-client-sample"
 /* USER CODE END PD */
 
 /* Private macro -------------------------------------------------------------*/
@@ -48,18 +48,31 @@
 /* Private variables ---------------------------------------------------------*/
 
 /* USER CODE BEGIN PV */
-
+__IO FlagStatus rx_status = RESET;
+uint8_t received_rpmsg[128];
+struct rpmsg_endpoint resmgr_ept; /* RPMsg Endpoint */
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
 void SystemClock_Config(void);
 /* USER CODE BEGIN PFP */
-
+static int rx_callback(struct rpmsg_endpoint *rp_chnl, void *data,
+                          size_t len, uint32_t src, void *priv);
 /* USER CODE END PFP */
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
-
+#ifdef __GNUC__
+#define PUTCHAR_PROTOTYPE int __io_putchar(int ch)
+#else
+#define PUTCHAR_PROTOTYPE int fputc(int ch, FILE *f)
+#endif
+PUTCHAR_PROTOTYPE
+{
+  while ((USART3->ISR & 0X40) == 0);
+  USART3->TDR = (uint8_t) ch;
+  return ch;
+}
 /* USER CODE END 0 */
 
 /**
@@ -69,6 +82,7 @@ void SystemClock_Config(void);
 int main(void)
 {
   /* USER CODE BEGIN 1 */
+
 
   /* USER CODE END 1 */
 
@@ -106,6 +120,9 @@ int main(void)
   MX_FDCAN2_Init();
   /* USER CODE BEGIN 2 */
 
+  /* Creat RPMsg End point function Entry */
+  OPENAMP_create_endpoint(&resmgr_ept, RPMSG_SERVICE_NAME, RPMSG_ADDR_ANY, rx_callback, NULL);
+  
   /* Enter the ThreadX kernel.  */
   tx_kernel_enter();
   /* USER CODE END 2 */
@@ -186,7 +203,16 @@ void SystemClock_Config(void)
 }
 
 /* USER CODE BEGIN 4 */
+static int rx_callback(struct rpmsg_endpoint *rp_chnl, void *data, size_t len, uint32_t src, void *priv)
+{
+  memcpy(received_rpmsg, data, len > sizeof(received_rpmsg) ? sizeof(received_rpmsg) : len);
 
+  printf("received_rpmsg=%s/r/n", received_rpmsg);
+
+  rx_status = SET;
+
+  return 0;
+} 
 /* USER CODE END 4 */
 
 /**
